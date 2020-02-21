@@ -1,0 +1,55 @@
+{
+    "_createdAt": "2018-11-12T13:26:01Z",
+    "_id": "menu_5492",
+    "_rev": "uu7scu-6s4-qxf-fjh-c481luplk",
+    "_type": "menu",
+    "_updatedAt": "2019-03-14T18:39:02Z",
+    "name": {
+        "_type": "localeString",
+        "en": "BK MENU",
+        "es": "",
+        "fr": ""
+    },
+    "options": [
+        {
+            "_key": "section_5596",
+            "_ref": "section_5596",
+            "_type": "section"
+        },
+        {
+            "_key": "section_5597",
+            "_ref": "section_5597",
+            "_type": "section"
+        },
+        {
+            "_key": "section_5601",
+            "_ref": "section_5601",
+            "_type": "section"
+        },
+        {
+            "_key": "section_5599",
+            "_ref": "section_5599",
+            "_type": "section"
+        },
+        {
+            "_key": "section_5600",
+            "_ref": "section_5600",
+            "_type": "section"
+        },
+        {
+            "_key": "section_5598",
+            "_ref": "section_5598",
+            "_type": "section"
+        },
+        {
+            "_key": "section_5603",
+            "_ref": "section_5603",
+            "_type": "section"
+        },
+        {
+            "_key": "964d239a397c",
+            "_ref": "f509ca10-85d9-4ad2-842e-3279195e4912",
+            "_type": "section"
+        }
+    ]
+}
